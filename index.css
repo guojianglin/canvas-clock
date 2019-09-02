@@ -1,0 +1,25 @@
+body, html {
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    text-align: center;
+}
+.container {
+    background-color: #3CC4F0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container .wraper {
+    background-color: #D8CF30;
+    height: 80vh;
+    min-height: 500px;
+    width: 61.8%;
+    opacity: .8;
+    min-width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
